@@ -5,7 +5,7 @@ Never forget to pack these things, broken down by category. Used for traveling t
 # Before you travel
 
  * Double check: Date, Time (*AM OR PM*), location of airport
- * Is a passport or VISA needed? 
+ * Is a passport or visa needed? 
  * Is FX (foreign currency) needed?
  * Check travel situation on the ground (light rail, trains, availablity of Uber / Lyft, etc)
 
@@ -57,4 +57,7 @@ For any given day, bring about 15% more tshirts, -20 % less for pants, 50% more 
  * Feed pets
  * Double check: phone, keys, wallet on the way out.
  * Visit ATM for cash (needed for public transport)
- * Keep travel receipts (if for business) 
+ * Keep travel receipts (if traveling for business)
+ * gifts (if needed)
+
+ 
